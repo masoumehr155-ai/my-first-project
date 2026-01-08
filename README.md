@@ -18,5 +18,4 @@
 
 
 ### تصویر نمونه:
-![لوگوی گست هاب]
-(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![لوگوی گیت هاب](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
