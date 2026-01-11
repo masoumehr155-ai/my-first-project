@@ -1,20 +1,11 @@
 # سلام، من معصومه هستم! 👋
 
 ### 👩‍💻 درباره من:
-من به دنیای تکنولوژی و مستندسازی فنی علاقه دارم و در حال یادگیری GitHub و Markdown هستم.
-
-### 🛠 مهارت‌های فعلی من:
-* ✅ کار با مخازن گیت‌هاب
-* ✅ مستندسازی با مارک‌داون
-* ✅ طراحی پروفایل شخصی
+من به دنیای تکنولوژی علاقه دارم و در حال یادگیری GitHub هستم.
 
 ### 📊 آمار فعالیت‌های من:
-
-![آمار](https://github-readme-stats.vercel.app/api?username=masoumehr155-ai&show_icons=true&theme=radical)
-
-![زبان‌ها](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehr155-ai&layout=compact&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=masoumehr155-ai&show_icons=true&theme=radical)
 
 ---
-### 👁‍🗨 تعداد بازدید:
-![Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)---
-✨ "یادگیری مداوم، مسیر من به سوی موفقیت است."
+👁‍🗨 تعداد بازدید:
+![Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
